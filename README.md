@@ -1,4 +1,4 @@
-	// Ceonein Dedalus :: Just a chilling guy
+
 # Ceonein Dedalus
 
 **`Building local-first. Fighting for privacy.`**
