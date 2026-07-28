@@ -38,23 +38,6 @@ Local-first AI and systems tooling — no cloud dependency, no data leaving your
 
 ---
 
-### GitHub Stats
-
-![Ceonein's GitHub stats](https://github-readme-stats.vercel.app/api?username=CEONEINDEDALUS&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CEONEINDEDALUS&layout=compact&theme=dark&hide_border=true)
-
----
-
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CEONEINDEDALUS/CEONEINDEDALUS/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CEONEINDEDALUS/CEONEINDEDALUS/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/CEONEINDEDALUS/CEONEINDEDALUS/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### Philosophy
 
 Privacy and freedom aren't features — they're defaults worth defending. Local-first tools, open-source code, and infrastructure you actually control.
