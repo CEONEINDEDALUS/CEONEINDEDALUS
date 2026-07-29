@@ -30,8 +30,6 @@ Full list of available icons: https://skillicons.dev -->
 Local-first AI and systems tooling — no cloud dependency, no data leaving your machine.
 
 - **[raven](https://github.com/CEONEINDEDALUS/raven)** `Python` — Local LLM-powered AI assistant that runs entirely on your own hardware.
-- **[ravenv2](https://github.com/CEONEINDEDALUS/ravenv2)** `Python` — Next iteration of raven, rebuilt for _(fill in: speed / architecture / features)_.
-- **[ggufchat](https://github.com/CEONEINDEDALUS/ggufchat)** `Python` — Chat interface for GGUF-format local models.
 - **[musiq](https://github.com/CEONEINDEDALUS/musiq)** `Rust` — _(one line on what this does)_.
 - **[synthgrid](https://github.com/CEONEINDEDALUS/synthgrid)** `Python` — _(one line on what this does)_.
 - _(more projects coming soon — this list updates frequently)_
