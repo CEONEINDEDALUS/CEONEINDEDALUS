@@ -48,22 +48,6 @@ class CEONEINDEDALUS:
 <img src="https://img.shields.io/badge/LLM_Jailbreaking-B8000F?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
-<h3>📖 The Grimoire (Manga Scrolls)</h3>
-<p align="center">
-  <img src="https://progress-bar.dev/100/?title=Berserk&width=200&color=B8000F&suffix=%20(Masterpiece)" />
-  <br>
-  <img src="https://progress-bar.dev/100/?title=Vagabond&width=200&color=2f2f2f&suffix=%20(Masterpiece)" />
-  <br>
-  <img src="https://progress-bar.dev/100/?title=Vinland_Saga&width=200&color=58a6ff&suffix=%20(Masterpiece)" />
-  <br>
-  <img src="https://progress-bar.dev/100/?title=20th_Cent._Boys&width=200&color=3fb950&suffix=%20(Masterpiece)" />
-  <br>
-  <img src="https://progress-bar.dev/75/?title=Manhwa%20%26%20Others&width=200&color=8b949e&suffix=%20(Reading)" />
-</p>
-
-    </td>
-  </tr>
-</table>
 
 <hr style="border: 1px solid #B8000F;">
 
