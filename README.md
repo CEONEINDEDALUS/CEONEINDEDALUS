@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:B8000F,100:000000&height=220&section=header&text=CEONEINDEDALUS&fontSize=70&fontColor=FFFFFF&stroke=B8000F&strokeWidth=2&animation=twinkling&desc=Creative+AI+%E2%80%A2+Cyber+%E2%80%A2+LLM+Jailbreaking&descAlignY=85&descSize=18" width="100%" />
 </p>
@@ -10,13 +9,10 @@
 ---
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-
-### ⚙️ SYSTEM METRICS
-
-```text
- DISTRO   Fedora Linux 43 (Workstation) x86_64
+<tr>
+<td width="50%" valign="top" align="center">
+<h3>⚙️ SYSTEM METRICS</h3>
+<pre><code> DISTRO   Fedora Linux 43 (Workstation) x86_64
   ├─ KERN Linux 7.1.5-100.fc43.x86_64
   ├─ PKGS 26 (flatpak), 3043 (rpm)
   ├─ UPTM 101 days
@@ -28,22 +24,19 @@
   ├─ CRSR Adwaita (24px)
   ├─ FONT Adwaita Mono (11pt)
   └─ TERM Ptyxis 49.3
-```
-
-    </td>
-    <td width="50%" valign="top" align="center">
-
-### 📊 BATTLE STATS
+</code></pre>
+</td>
+<td width="50%" valign="top" align="center">
+<h3>📊 BATTLE STATS</h3>
 <i><sub>Low numbers indicate a stealth/op profile.</sub></i>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=CEONEINDEDALUS&show_icons=true&theme=dark&hide_border=true" height="170" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CEONEINDEDALUS&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="Stats" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CEONEINDEDALUS&theme=dark&hide_border=true" height="170" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CEONEINDEDALUS&theme=dark&hide_border=true&count_private=true" height="170" alt="Streak" />
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CEONEINDEDALUS&theme=react-dark&hide_border=true&area=true&color=DC143C&line=8B0000" width="95%" alt="Activity Graph" />
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -154,116 +147,6 @@
 </table>
 
 </div>
-
----
-
-<div align="center">
-
-### 🏆 FEATS
-
-<img src="https://github-profile-trophy.vercel.app/?username=CEONEINDEDALUS&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" />
-
-</div>
-
----
-
-<!-- COLLAPSIBLE ASCII ART -->
-<details>
-  <summary align="center"><img src="https://img.shields.io/badge/-VIEW_ASCII_ART-B8000F?style=for-the-badge&logo=terminal&logoColor=white" alt="View ASCII Art" /></summary>
-  <br>
-  <div align="center">
-    
-  ```text
-                                                                =                                                                      
-                                                                *                                                                      
-                                                               .*                                                                      
-                                                               =#.                                                                     
-                                                               *%:                                                                     
-                                                        ::     %%:    .=.                                                              
-                                                      :=      =%@#      :+.                                                            
-                                                    .##.      =%@*       -%:                                                           
-                                       ..           +%:      .*@@@:       =%.           :                                              
-                                       .:          .%:   .:-*@@%#%@%=:..  .*%          .-                                              
-                                        ::         #@-  ..=-#@@%#@@@=-..  .#%-        .-                                               
-                .:.                     .#-.      .@@*      +@@@@@@#.     :%@=       :+-                      ::                       
-                 .=.                     .*:      :%@@@@%#*%@@%. *@@@%*%@@@@@*.      +=                      =:                        
-                   -+.                    =#:.-:=+#%@@@@%%@@@@*. =@@@@%%%@@%@%*=:.:.=%.                    :*:                         
-                    =%=.                .:#%%:      -#%:   =%@@@@@@@%.. .=%*.      *@%+:.                :##.                          
-                     =@%.                  *@%:..:=: :   -:=@@%%%%@@%:=   .: :=:..*@%:                  +%%:                           
-                      .*@*-.     .:-.     :#%*%%:..:=%#%%@@@@@@%%%@@@@@@%#%*-:..*%*%%=     .:-.      :=%%:                             
-                       .%@%*:..:+%:   .:*#++%@@%@@@@@@@%+-.=%%%@%@%%*::=*%@@@@@@@@@%*+*#-.    +%-..:=%@%=                              
-                         =%@@@@@%:  .*::=..+%@%#%%:...=.      :%%=:      := .:=%%#@@%: :=.=+.  *@@@@@@*.                               
-                          +@%*@@@%%%=  .*%%@***..              =#.             ..:*+%@#%:  :#@%@@@@#%%:                                
-                         =%%@@#=%@@= .=%@%%:                   .*                    *%%@#: .@@@**%@%%*.                               
-                       ::. :%@*:#@%#%@@#. .-                    :                   ::  :%@%#%%@=-%@=  ::.                             
-                          .%@@%@@@@%*#=                                                  :**#@@@@%@@%+.                                
-                         ++:...#%%%%*                           ::                         :%@%%%-...-*:                               
-                        .  =%%%@#.-=#:                       =: =-                         =*-:=@@%@*: ..                              
-                         -%%: .:     -.                    .:   *+                        =:    .:  *%*.                               
-                        =%-:                                :#::#%  .*.-.                           .:*%:                              
-                      .*%-                               . ..:#%%%%%=                                 .+%:                             
-                      -*                               .%.   : +%%%. .  .#:                             -#.                            
-                     .*.                              :#.:.   .-%%%    ..:%-                             -+                            
-                     -:                             .=%:       -@@%:      :%%:                            -.                           
-                                                   :%@:       :=@@%.=      .%%:                                                        
-                                                 :%@@*:       .#@@*:        :%@+                                                       
-                                                :%@@%:       :+-%@%          :%@%.                                                     
-                                               :%@%:.          =@@%.          :@@%=...                                                 
-                                             :=@@%=            =@@=            =%@@*:                                                  
-                                             .%@@@%#:         .+@%*         ..=@@%%.                                                   
-                                               :*@@@%==        :%@%..       =%@@%:                                                     
-                                                 .*%@@%-       :%@-     ..:%@@%-.                                                      
-                                                   .+%@@*:   ..-%@# .  .=%%@%+.                                                        
-                                                     :*%@@#::. =@@=   .-%@%*                                                           
-                                                       .%%@@%+ :%@%  :%@%+.                                                            
-                                                       . :#@@@**@@=:#@@#.                                                              
-                                                           .*@@@%@@@@%:                                                                
-                                                            .%@@@@@%=                                                                  
-                                                       .   :+%@@@@@@%*:                                                                
-                                                       .*:*@@@%=@@%*@@@%.                                                              
-                                                       -*@@@%: -%@#  =%@@%-                                                            
-                                                  ..:%@@@@%=   :#@*.   +%@@%:.                                                         
-                                             ..    *%@@@%=   . =@@%.    .=%@%+                                                         
-                                              ..::*@@@%=       :%@%:    ..*%@@@%:                                                      
-                                              .:%@@@%#.        *@@*:    . . =%@@@%-                                                    
-                                             .%@@@%=.          :%@@=        ..+%@@@+:.                                                 
-                                            .-@@@@*:          .%@@%-          .+@@%+.                                                  
-                                              .=%@@@#.         +%@%      : .--%@@%+                                                    
-                                               .*%@@@@*.       =@@#       .=*%@@%=.                                                    
-                     =:                          .-#@@@%+.      =@%     .#%@@%%:                          =:                           
-                     .*.                        ..  :%@@@%:    -#@%    .#@@@%+.                          :*                            
-                      -*                         .   ..=@@@#.  .%@%: .*@@@%=.:.                         :#.                            
-                       *%+                              :*%@%=.=@@%:=@@@%:                            :#%:                             
-                       .=%=:                      .       .*@@%%@@@%@@%-=.                          .:*%:                              
-                         =%%- .:.    :.                     =%@@@@@@@*.   .               -.    .. .*@%.                               
-                        : .=%%%@#::=%:                   .    -#@@%+=*.   .                =*:.=@%%%%:  .                              
-                        .+=:.=:#%%@@=                           =* .                       .#@%%%=::.-+-                               
-                          .%@@@@@@@%=%-                                                  .***@@@@@@@@*.                                
-                       :=: :%@*:*@%*%@@#. .=                    :                   ::  -%@@#*@@==%%=  =-.                             
-                         =%%@@#:*@@+ .*%@%%:                   .*                    *@@@#= .@@@==%@%%#.                               
-                          =@%*@@@@@%=  .*%%@%*#:.              +%:              .:#*%@%%-  .#@@@@@@#@%:                                
-                         =%@@@@@%: .-*:.+::*@@%*%#-.  =.     .-%@+:      :- .:=%%*%@%-.==.=*:  *@@@@@@*                                
-                       .%@@#-..:*%:   .:#%=-%@@@@@@@@@@%+:.-%@@@*@%%*:.-*%@@@@@@@@@@*-+%+.    +%=. :+%@@+                              
-                      .*@*-:     .:=.     :#%#@%:.::=%%@@@@@@@@@@@@@@@@@@%%*-::.*@%%@=.     :::.     :=@%:                             
-                     =@%:              .   *@%=::--. - ..--*%@%##%@@%=+ ...: :=-::*@%:  ..             .*@%:                           
-                    =%*.                .-%%%:      :#%: . =%@@@@@%@%:. .=%*       +@%#:.                .%%                           
-                   -+.                    =%-:-.=+*%@@@%%%%@@@#. =@@@@%%%@@@@%*=:.::+%.                    :#:                         
-                 .=:                     .*:      -%@@%%%##%@@%:.*@@%%#%%%@@@#.      ++                      =:                        
-                .=.                      #=.       %@*.     +@@@%@@%.     :%%=       :*-                      .=                       
-                                        :-        .#@=  .:==#@@%#@@@==::. .#%=        .=.                                              
-                                       .:          .%:    :=%@@@%@@%*:.   .*%          .=                                              
-                                       ..           +%:      .*@@@-       +@:           :.                                             
-                                                    .*#.      -%@#       :%-                                                           
-                                                      :=      =@@%.     :*.                                                            
-                                                       .-:.    %%-    .::                                                              
-                                                               *%:                                                                     
-                                                               +%:                                                                     
-                                                               .*                                                                      
-                                                                *                                                                      
-                                                                =                                                                      
-  ```
-  </div>
-</details>
 
 ---
 
