@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:B8000F,100:000000&height=220&section=header&text=CEONEINDEDALUS&fontSize=70&fontColor=FFFFFF&stroke=B8000F&strokeWidth=2&animation=twinkling&desc=Creative+AI+%E2%80%A2+Cyber+%E2%80%A2+LLM+Jailbreaking&descAlignY=85&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:B8000F,100:000000&height=220&section=header&text=CEONEINDEDALUS&fontSize=70&fontColor=FFFFFF&stroke=B8000F&strokeWidth=2&animation=twinkling&desc=AI+Engineer+%E2%80%A2+Security+Research+%E2%80%A2+Systems&descAlignY=85&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B8000F&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=Python+%7C+Rust+%7C+Go;Fedora+Linux+Tweaker;Writing+Cheats+%26+Fucking+Around;Manga+%26+Manhwa+Addict" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B8000F&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=Python+%7C+Rust+%7C+Go;Fedora+Linux+Tinkerer;Building+Local-First+AI+Tools;Manga+%26+Manhwa+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
   ├─ UPTM 101 days
   └─ SHLL zsh 5.9
 
- DE/WM    Mutter (Wayland)
+ DE/WM    Hyprland (Wayland)
   ├─ THME Nordic-bluish-accent-v40
   ├─ ICNS Adwaita [GTK2/3/4]
   ├─ CRSR Adwaita (24px)
@@ -27,9 +27,8 @@
 </code></pre>
 </td>
 <td width="50%" valign="top" align="center">
-<h3>📊 BATTLE STATS</h3>
-<i><sub>Low numbers indicate a stealth/op profile.</sub></i>
-<br><br>
+<h3>📊 STATS</h3>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=CEONEINDEDALUS&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="Stats" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CEONEINDEDALUS&theme=dark&hide_border=true&count_private=true" height="170" alt="Streak" />
@@ -54,7 +53,7 @@
 
 <div align="center">
 
-### 🗡️ ARSENAL
+### 🛠️ TECH STACK
 
 <table>
   <tr>
@@ -112,6 +111,21 @@
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 FEATURED PROJECTS
+
+| Project | Description | Stack |
+|---|---|---|
+| **raven** | Local LLM-powered AI assistant | Python |
+| **musiq** | Fast, minimal Linux music player with a dark monospace GTK-style UI | Rust |
+| **synthgrid** | AI-powered desktop app for creating, editing, and analyzing Excel files via natural language (local Ollama or cloud Groq backends) | Python |
+| **veronica** | Local-first RAG desktop app for querying private documents fully offline via a local Ollama server | Python |
 
 </div>
 
