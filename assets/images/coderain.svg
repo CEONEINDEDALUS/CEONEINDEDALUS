@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="460" viewBox="0 0 400 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Encrypted traffic — animated code rain">
+  <title>TRAFFIC://ENCRYPTED</title>
+
+  <defs>
+    <linearGradient id="fadeG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="12%"  stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="88%"  stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fadeM">
+      <rect x="0" y="40" width="400" height="380" fill="url(#fadeG)"/>
+    </mask>
+    <pattern id="rscan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#FF1001" fill-opacity="0.045"/>
+    </pattern>
+    <style>
+      .col { animation: fall 5s linear infinite; }
+      @keyframes fall {
+        from { transform: translateY(-180px); }
+        to   { transform: translateY(520px); }
+      }
+      .c1 { animation-duration: 6.2s; animation-delay: -1.0s; }
+      .c2 { animation-duration: 4.4s; animation-delay: -3.2s; }
+      .c3 { animation-duration: 5.6s; animation-delay: -0.4s; }
+      .c4 { animation-duration: 3.8s; animation-delay: -2.0s; }
+      .c5 { animation-duration: 5.0s; animation-delay: -4.1s; }
+      .c6 { animation-duration: 4.2s; animation-delay: -0.9s; }
+      .c7 { animation-duration: 6.8s; animation-delay: -2.8s; }
+      .c8 { animation-duration: 3.6s; animation-delay: -1.6s; }
+      .c9 { animation-duration: 5.9s; animation-delay: -3.6s; }
+      .led { animation: blink 1.4s steps(1) infinite; }
+      @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.15; } 100% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- panel -->
+  <rect x="4" y="4" width="392" height="452" rx="14" fill="#0A0A0A" stroke="#FF1001" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <!-- top bar -->
+  <path d="M 4 38 V 18 Q 4 4 18 4 H 382 Q 396 4 396 18 V 38 Z" fill="#161616"/>
+  <text x="20" y="27" font-family="JetBrains Mono, Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#FF1001" font-weight="bold">&#9619; TRAFFIC://ENCRYPTED</text>
+  <circle class="led" cx="376" cy="21" r="4.5" fill="#FF1001"/>
+
+  <!-- rain -->
+  <g mask="url(#fadeM)" font-family="JetBrains Mono, Cascadia Mono, Consolas, Courier New, monospace" font-size="22" font-weight="bold">
+    <g class="col c1" transform="translate(0,0)"><g transform="translate(30,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">1</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">0</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">0</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">1</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">#</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">1</text>
+    </g></g>
+    <g class="col c2"><g transform="translate(72,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">0</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">1</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">$</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">0</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">1</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">%</text>
+    </g></g>
+    <g class="col c3"><g transform="translate(114,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">_</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">1</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">0</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">|</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">0</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">1</text>
+    </g></g>
+    <g class="col c4"><g transform="translate(156,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">#</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">1</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">1</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">0</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">$</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">0</text>
+    </g></g>
+    <g class="col c5"><g transform="translate(198,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">1</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">/</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">0</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">1</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">?</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">1</text>
+    </g></g>
+    <g class="col c6"><g transform="translate(240,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">0</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">1</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">+</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">1</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">0</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">\</text>
+    </g></g>
+    <g class="col c7"><g transform="translate(282,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">=</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">1</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">0</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">_</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">0</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">1</text>
+    </g></g>
+    <g class="col c8"><g transform="translate(324,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">1</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">0</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">%</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">0</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">1</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">*</text>
+    </g></g>
+    <g class="col c9"><g transform="translate(366,64)">
+      <text y="0"   fill="#FFFFFF" fill-opacity="0.95">0</text>
+      <text y="26" fill="#FF1001" fill-opacity="0.60">|</text>
+      <text y="52" fill="#FF1001" fill-opacity="0.50">1</text>
+      <text y="78" fill="#FF1001" fill-opacity="0.40">0</text>
+      <text y="104" fill="#FF1001" fill-opacity="0.30">1</text>
+      <text y="130" fill="#FF1001" fill-opacity="0.22">#</text>
+    </g></g>
+  </g>
+
+  <!-- scanlines overlay on rain area -->
+  <rect x="4" y="38" width="392" height="372" fill="url(#rscan)"/>
+
+  <!-- bottom bar -->
+  <line x1="4" y1="412.5" x2="396" y2="412.5" stroke="#FF1001" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="20" y="441" font-family="JetBrains Mono, Cascadia Mono, Consolas, Courier New, monospace" font-size="13" fill="#8A8A8A">&#9619; NO DATA LEAVES THIS MACHINE</text>
+</svg>
