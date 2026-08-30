@@ -1,12 +1,4 @@
-<!-- ══════════════════════════════════════════════════════════════════
-  TEAM DEDALUS · GitHub Profile README
-  ──────────────────────────────────────────────────────────────────
-  ▸ All artwork in assets/ is custom & yours to edit (SVG = text)
-  ▸ Action required: replace YOUR_EMAIL@example.com (CONNECT section)
-  ▸ Full setup + customization guide → SETUP.md
-  ══════════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════ BANNER ═══════════════ -->
 <a href="https://github.com/CEONEINDEDALUS">
   <img src="assets/images/banner-terminal.svg" alt="dedalus@127.0.0.1 — whoami" style="width:100%; height:auto"/>
 </a>
@@ -140,6 +132,5 @@ I treat privacy as **architecture, not a feature** — the cloud is just someone
 
 `────────◈────────`
 
-<sub>**TEAM DEDALUS** · offline-first · open-source · no servers were harmed (or used)</sub>
 
 </div>
