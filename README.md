@@ -1,139 +1,143 @@
 <a href="https://github.com/CEONEINDEDALUS">
-  <img src="assets/images/banner-terminal.svg" alt="dedalus@127.0.0.1 — whoami" style="width:100%; height:auto"/>
+  <img src="assets/images/banner-terminal.svg" alt="dedalus@127.0.0.1 — whoami" width="100%">
 </a>
 
-<div align="center">
-
+<p align="center">
   <a href="https://api.github-star-counter.workers.dev/user/CEONEINDEDALUS">
-    <img width="118px"
-         alt="Stars"
-         title="Total profile stars"
-         src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.gi[...]
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&logoColor=white&color=000000&labelColor=FF1001&label=Stars&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FCEONEINDEDALUS"
+      alt="Total profile stars"
+      title="Total profile stars"
+    >
   </a>
   <a href="https://github.com/CEONEINDEDALUS?tab=followers">
-    <img width="150px"
-         alt="Followers"
-         title="GitHub followers"
-         src="https://custom-icon-badges.demolab.com/github/followers/CEONEINDEDALUS?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"/>
+    <img
+      src="https://custom-icon-badges.demolab.com/github/followers/CEONEINDEDALUS?color=000000&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff"
+      alt="GitHub followers"
+      title="GitHub followers"
+    >
+  </a>
+  <a href="https://github.com/CEONEINDEDALUS/CEONEINDEDALUS">
+    <img
+      src="https://custom-icon-badges.demolab.com/github/forks/CEONEINDEDALUS/CEONEINDEDALUS?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001"
+      alt="Profile repository forks"
+      title="Profile repository forks"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/images/header-about.svg" width="58%" alt="About me">
+</p>
+
+<table>
+  <tr>
+    <td width="36%" valign="top" align="center">
+      <img src="assets/images/coderain.svg" width="100%" alt="Encrypted traffic">
+    </td>
+    <td width="64%" valign="top">
+
+<p>
+<strong><code>$ whoami</code></strong> → I'm <strong>Ceonein Dedalus</strong>, the human behind <code>Team Dedalus</code>.
+I build <strong>open-source tools</strong> for <code>privacy</code>, <code>security</code>, and <code>automation</code>.
+</p>
+
+<p>
+I write <strong>Python</strong> and <strong>Rust</strong>, run <strong>local LLMs</strong> on my own hardware,
+and ship <strong>offline-first software</strong> — including AI assistants that stay on your machine,
+RAG pipelines, and automation that does not require handing everything to the cloud.
+</p>
+
+<p>
+I treat <strong>privacy as architecture, not a feature</strong>.
+The cloud is just someone else's computer, so I build toward local-first systems with
+<strong>e2e encryption</strong>, <strong>local-first sync</strong>, and minimal trust.
+</p>
+
+</td>
+
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/images/header-connect.svg" width="58%" alt="Connect with me">
+</p>
+
+<p align="center">
+  <a href="mailto:ceonein@proton.me">
+    <img
+      src="https://img.shields.io/badge/Email-ceonein%40proton.me-0D0D0D?style=for-the-badge&labelColor=FF1001&logo=protonmail&logoColor=white"
+      alt="Email"
+    >
   </a>
   <a href="https://github.com/CEONEINDEDALUS">
-    <img width="112px"
-         alt="Forks"
-         title="Forks of my profile repo"
-         src="https://custom-icon-badges.demolab.com/github/forks/CEONEINDEDALUS/CEONEINDEDALUS?color=000000&logo=fork&style=for-the-badge&logoColor=white&labelColor=FF1001"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-CEONEINDEDALUS-0D0D0D?style=for-the-badge&labelColor=FF1001&logo=github&logoColor=white"
+      alt="GitHub"
+    >
   </a>
+</p>
 
-</div>
+<p align="right">
+  <img src="assets/icons/daedalus-labyrinth.svg" width="106" alt="Team Dedalus labyrinth">
+</p>
 
-</br>
+[!CAUTION]
+Trust is a vulnerability. Verify everything. Encrypt everything. Assume breach.
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-<div align="center">
-  <img src="assets/images/header-about.svg" width="58%" alt="About me"/>
-</div>
-</br>
+What you see here is compiled from coffee, curiosity, and chmod +x.
 
-<!-- Custom animated side-art. Prefer a real GIF? Swap the src below for any
-     tenor/media GIF URL you like (see SETUP.md → "Swap the side art"). -->
-<img src="assets/images/coderain.svg" width="330" align="left" alt="encrypted traffic">
+<p align="center">
+  <img src="assets/images/header-contributions.svg" width="58%" alt="Contributions">
+</p>
 
-<div align="justify">
-
-**`$ whoami`** → I'm **Ceonein Dedalus**, the human behind `Team Dedalus`. I build **open-source tools** for `privacy`, `security` and `automation`, and I run on one rule: **if it doesn't respec[...]
-
-I write **Python** and **Rust**, run **local LLMs** on my own hardware, and ship **offline-first software**: AI assistants that never leave your machine (`veronica`), RAG pipelines that query priv[...]
-
-I treat privacy as **architecture, not a feature** — the cloud is just someone else's computer, so I de-cloud things. Currently digging into `local-first sync`, `e2e encryption` and automating a[...]
-
-</div>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-<div align="center">
-  <img src="assets/images/header-connect.svg" width="58%" alt="Connect with me"/>
-</br>
-</br>
-
-  <!-- ▼ ACTION REQUIRED: put your real email in the mailto link below ▼ -->
-  <a href="mailto:ceonein@proton.me" target="_blank">
-    <img width="150px"
-         src="https://img.shields.io/badge/Email-ceonein%40proton.me-0D0D0D?style=for-the-badge&labelColor=FF1001&logo=protonmail&logoColor=white"
-         alt="E-mail"
-         title="My E-mail"/>
+<p align="center">
+  <a href="https://github.com/CEONEINDEDALUS">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CEONEINDEDALUS&bg_color=0D0D0D&color=EAEAEA&line=FF1001&point=FFFFFF&area=true&area_color=FF1001"
+      alt="GitHub contribution activity graph"
+      width="100%"
+    >
   </a>
-  <a href="https://github.com/CEONEINDEDALUS" target="_blank">
-    <img width="235px"
-         src="https://img.shields.io/badge/GitHub-CEONEINDEDALUS-0D0D0D?style=for-the-badge&labelColor=FF1001&logo=github&logoColor=white"
-         alt="GitHub"
-         title="My GitHub"/>
-  </a>
+</p>
 
-</div>
-</br>
+<p align="center">
+  <img src="assets/images/header-stack.svg" width="58%" alt="Tech stack">
+</p>
 
-<img src="assets/icons/daedalus-labyrinth.svg" width="106" align="right" alt="Team Dedalus labyrinth">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,html,css,js,ts&theme=dark" alt="Python, Rust, HTML, CSS, JavaScript, TypeScript">
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,sqlite,bash,md&theme=dark" alt="PyTorch, FastAPI, Flask, SQLite, Bash, Markdown">
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,vim&theme=dark" alt="Linux, Git, GitHub, Docker, Neovim, Vim">
+</p>
 
-> [!CAUTION]
->
-> **Trust is a vulnerability.** Verify everything. Encrypt everything. Assume breach.
->
-> What you see here is compiled from `coffee`, `curiosity` and `chmod +x`.
->
-</br>
+<p align="center">
+  <img src="assets/images/header-projects.svg" width="58%" alt="Projects">
+</p>
 
-<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
-<div align="center">
-  <img src="assets/images/header-contributions.svg" width="58%" alt="Contributions"/>
-</br>
-</br>
-
-[![commit history :: last 365 days](https://github-readme-activity-graph.vercel.app/graph?username=CEONEINDEDALUS&bg_color=0D0D0D&color=EAEAEA&line=FF1001&point=FFFFFF&area=true&area_color=FF1001&[...]
-
-</div>
-
-</br>
-
-<!-- ═══════════════ STACK + PROJECTS ═══════════════ -->
 <table align="center">
   <tr>
-    <!-- Tech stack -->
-    <td valign="top" width="46%">
-      <div align="center"><img src="assets/images/header-stack.svg" width="94%" alt="Tech stack"/></div>
-      </br>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,rust,html,css,js,ts&theme=dark" alt="languages"/><br>
-        <img src="https://skillicons.dev/icons?i=pytorch,fastapi,flask,sqlite,bash,md&theme=dark" alt="ai and tools"/><br>
-        <img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,vim&theme=dark" alt="environment"/>
-      </div>
-    </td>
-    <!-- Projects + streak -->
-    <td valign="top" width="54%">
-      <div align="center"><img src="assets/images/header-projects.svg" width="94%" alt="Projects"/></div>
-      </br>
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/CEONEINDEDALUS/raven">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CEONEINDEDALUS&repo=raven&theme=dark&bg_color=0D0D0D&title_color=FF1001&text_color=EAEAEA&border_color=FF1001&icon_color[...]
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=CEONEINDEDALUS&repo=raven&theme=dark&bg_color=0D0D0D&title_color=FF1001&text_color=EAEAEA&border_color=FF1001&icon_color=FF1001"
+          alt="Raven repository card"
+          width="100%"
+        >
       </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CEONEINDEDALUS&theme=dark&background=0D0D0D&ring=FF1001&fire=FF1001&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1001&sideLabels=[...]
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=CEONEINDEDALUS&theme=dark&background=0D0D0D&ring=FF1001&fire=FF1001&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1001&sideLabels=EAEAEA&dates=EAEAEA&border=FF1001"
+        alt="GitHub contribution streak"
+        width="100%"
+      >
     </td>
   </tr>
 </table>
 
-</br>
-
-<!-- ═══════════════ SIGNATURE ═══════════════ -->
-<div align="center">
-
-`────────◈────────`
-
-
-</div> 
+<p align="center">
+  ────────◈────────
+</p>
