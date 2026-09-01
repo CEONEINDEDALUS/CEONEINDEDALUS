@@ -1,4 +1,3 @@
- 
 <a href="https://github.com/CEONEINDEDALUS">
   <img src="assets/images/banner-terminal.svg" alt="dedalus@127.0.0.1 — whoami" style="width:100%; height:auto"/>
 </a>
@@ -137,5 +136,4 @@ I treat privacy as **architecture, not a feature** — the cloud is just someone
 `────────◈────────`
 
 
-</div>
-
+</div> 
